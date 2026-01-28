@@ -30,6 +30,9 @@ Commit: c7f9c13
 SHA-256: 0d8bc3b0bd7c134c3a8a63770ba94dd4d7c147866566b36bfa958fa093f245ff
 Timestamp: 2026-01-03 21:17:23 CST
 Gas Cost: 231,772 gas (≈0.000232 ROAD)
+Signed By: 0xef855a0878a2da54870a47cd461c47252e580c0e
+Signed At: 2026-01-03 21:27:29 CST
+Status: ✅ SIGNED - Ready for Submission
 ```
 
 ### Explorer Links
