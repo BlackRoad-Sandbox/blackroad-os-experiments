@@ -1,3 +1,6 @@
+![CI](https://github.com/blackboxprogramming/blackroad-os-experiments/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue)
+
 # BlackRoad OS Experiments
 
 **Quantum Geometry Research: From Ancient Wisdom to Modern Quantum Computing**
